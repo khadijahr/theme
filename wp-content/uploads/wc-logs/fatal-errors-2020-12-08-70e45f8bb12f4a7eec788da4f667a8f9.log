@@ -1,0 +1,12 @@
+2020-12-08T14:21:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\fabipharm\wp-admin\includes\dashboard.php à la ligne 1939
+
+2020-12-08T14:27:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\fabipharm\wp-includes\wp-db.php à la ligne 2033
+
+2020-12-08T18:41:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\fabipharm\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\CouponsMovedTrait.php à la ligne 103
+
+2020-12-08T18:57:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\fabipharm\wp-includes\pomo\streams.php à la ligne 173
+
+2020-12-08T18:57:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\fabipharm\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Payments\Api.php à la ligne 178
+
+2020-12-08T18:59:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\fabipharm\wp-includes\post-template.php à la ligne 326
+

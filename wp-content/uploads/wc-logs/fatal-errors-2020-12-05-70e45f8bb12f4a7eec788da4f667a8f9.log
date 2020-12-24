@@ -1,0 +1,10 @@
+2020-12-05T17:12:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\fabipharm\wp-includes\pomo\streams.php à la ligne 118
+
+2020-12-05T17:12:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\fabipharm\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WC_Admin_Notes_Order_Milestones.php à la ligne 10
+
+2020-12-05T17:12:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\fabipharm\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\NoteTraits.php à la ligne 10
+
+2020-12-05T18:53:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\fabipharm\wp-includes\widgets\class-wp-widget-media.php à la ligne 453
+
+2020-12-05T18:53:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\fabipharm\wp-includes\blocks.php à la ligne 190
+

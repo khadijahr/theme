@@ -1,0 +1,4 @@
+2020-12-24T14:42:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\fabipharm\wp-admin\includes\class-wp-internal-pointers.php à la ligne 173
+
+2020-12-24T14:42:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\fabipharm\wp-content\plugins\wp-whatsapp-chat\template\box.php à la ligne 1
+

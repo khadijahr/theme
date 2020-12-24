@@ -1,0 +1,6 @@
+2020-12-13T18:22:50+00:00 CRITICAL require(): Failed opening required '/home/devhaxbu/parapharmacie.devhar.com/wp-content/themes/eco-theme/inc/theme-options.php' (include_path='.:/opt/alt/php73/usr/share/pear') dans /home/devhaxbu/parapharmacie.devhar.com/wp-content/themes/eco-theme/functions.php à la ligne 363
+
+2020-12-13T18:22:58+00:00 CRITICAL require(): Failed opening required '/home/devhaxbu/parapharmacie.devhar.com/wp-content/themes/eco-theme/inc/theme-options.php' (include_path='.:/opt/alt/php73/usr/share/pear') dans /home/devhaxbu/parapharmacie.devhar.com/wp-content/themes/eco-theme/functions.php à la ligne 363
+
+2020-12-13T18:23:01+00:00 CRITICAL require(): Failed opening required '/home/devhaxbu/parapharmacie.devhar.com/wp-content/themes/eco-theme/inc/theme-options.php' (include_path='.:/opt/alt/php73/usr/share/pear') dans /home/devhaxbu/parapharmacie.devhar.com/wp-content/themes/eco-theme/functions.php à la ligne 363
+

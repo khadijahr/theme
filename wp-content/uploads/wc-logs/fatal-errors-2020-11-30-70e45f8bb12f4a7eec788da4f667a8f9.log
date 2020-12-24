@@ -1,0 +1,18 @@
+2020-11-30T13:15:56+00:00 CRITICAL Uncaught Error: Call to undefined function eregi() in C:\xampp\htdocs\fabipharm\wp-content\themes\eco-theme\page-contact.php:29
+Stack trace:
+#0 C:\xampp\htdocs\fabipharm\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\fabipharm\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fabipharm\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\fabipharm\wp-content\themes\eco-theme\page-contact.php à la ligne 29
+
+2020-11-30T13:17:52+00:00 CRITICAL syntax error, unexpected '^' dans C:\xampp\htdocs\fabipharm\wp-content\themes\eco-theme\page-contact.php à la ligne 35
+
+2020-11-30T13:21:22+00:00 CRITICAL syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) dans C:\xampp\htdocs\fabipharm\wp-content\themes\eco-theme\page-contact.php à la ligne 22
+
+2020-11-30T13:22:46+00:00 CRITICAL syntax error, unexpected 'Name' (T_STRING) dans C:\xampp\htdocs\fabipharm\wp-content\themes\eco-theme\page-contact.php à la ligne 82
+
+2020-11-30T13:29:24+00:00 CRITICAL syntax error, unexpected 'Name' (T_STRING) dans C:\xampp\htdocs\fabipharm\wp-content\themes\eco-theme\page-contact.php à la ligne 82
+
+2020-11-30T13:30:00+00:00 CRITICAL syntax error, unexpected 'commentsText' (T_STRING) dans C:\xampp\htdocs\fabipharm\wp-content\themes\eco-theme\page-contact.php à la ligne 170
+
